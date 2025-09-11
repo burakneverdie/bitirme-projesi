@@ -120,13 +120,13 @@ Kod sadece `<p>` etiketlerini çekmektedir. Bu nedenle:
 - Bazı web sitelerinde metinler `<p>` dışında başka etiketlerde olabilir, tüm metinler çekilmeyebilir.
 - Bazı siteler scraping işlemlerine izin vermeyebilir veya engelleyebilir.
 
-** ❗ Not:** Web scraping işlemleri sırasında site politikalarına dikkat edin.
+⚠️ Uyarı: Web scraping işlemleri sırasında site politikalarına dikkat edin.
 
 ### 3. Eğitilmiş Model
 Eğitilmiş modelin boyutu çok büyük olduğu için GitHub’a yüklenememiştir.  
 `deneme/m2.py` dosyasını çalıştırdığınızda, eğer belirtilen yolda önceden eğitilmiş bir model yoksa, model eğitilmeye başlanacaktır.
 
-** 📝 Not:** Bu işlem uzun sürebilir ve GPU gerektirebilir.
+📝 Not: Bu işlem uzun sürebilir ve GPU gerektirebilir.
 
 ---
 
