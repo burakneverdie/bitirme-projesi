@@ -1,6 +1,6 @@
 # 💬 Doğal Dil İşleme Teknikleri ile Duygu Analizi
 
-Bu proje, **kullanıcı tarafından girilen bir URL içerisindeki metinleri veya kullanıcı tarafından girilen metinleri analiz ederek duygu tahmini yapan** bir Python projesidir. Önceden eğitilmiş model ile yeni girilen metinler üzerinde tahminler gerçekleştirmektedir.
+Bu program, **kullanıcı tarafından girilen bir URL içerisindeki metinleri veya kullanıcı tarafından girilen metinleri analiz ederek duygu tahmini yapan** bir Python projesidir. Önceden eğitilmiş model ile yeni girilen metinler üzerinde tahminler gerçekleştirmektedir.
 
 ---
 
