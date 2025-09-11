@@ -57,8 +57,6 @@ python calisma.py
 * `deneme` klasöründeki `m2.py` dosyasını çalıştırın ve bir metin girin.
 * Model, tahmin edilen duyguyu ekranda çıktı olarak gösterecektir.
 
-> Test için kullanılan algoritmalar ve modeller `deneme` klasörünün içerisindedir.
-
 ---
 
 ## 🤖 Çalışma Mantığı
