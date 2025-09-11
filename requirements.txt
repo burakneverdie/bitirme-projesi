@@ -1,0 +1,11 @@
+Pillow
+tk
+requests
+beautifulsoup4
+tensorflow
+numpy
+nltk
+matplotlib
+pandas
+scikit-learn
+seaborn
