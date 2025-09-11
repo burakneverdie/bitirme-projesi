@@ -135,4 +135,4 @@ Bu proje, bitirme projesi olarak **Burak Reis ÇIBIK** ve **Kubilay ATA** taraf�
 ---
 
 ## ⚠️ Önemli
-Projede kullanılan Kaggle üzerinde paylaşılmış olan veri setinin bağlantısını bulamadım ve bu nedenle ekleyemedim. Veri setini oluşturan ve paylaşan kişiye buradan teşekkür ediyoruz. :)
+Projede kullanmış olduğumuz Kaggle üzerinde paylaşılmış olan veri setinin bağlantısını bulamadım ve bu nedenle ekleyemedim. Veri setini oluşturan ve paylaşan kişiye buradan teşekkür ediyoruz. :)
